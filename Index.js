@@ -8,5 +8,3 @@ var RangeOfValues = ((low , high) => {
     return ArrOfRangeOFValues ; 
 
 })(0,100) ; 
-
-console.log(RangeOfValues);
